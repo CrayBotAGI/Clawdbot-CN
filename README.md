@@ -1,6 +1,9 @@
 
 # 🦞 Clawdbot — 个人 AI 助手
 
+## 主项目地址
+[https://github.com/CrayBotAGI/Craybot](https://github.com/CrayBotAGI/Craybot)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/clawdbot/clawdbot/main/docs/whatsapp-clawd.jpg" alt="Clawdbot" width="400">
 </p>
